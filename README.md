@@ -1,0 +1,2 @@
+# H-Zone
+H-ZONE is a 2Dplatform game created using Unity and programmed using C#, I always loved platform games and was inspired to create one of my own however an addition to this is that it also contains an AI mode in which an AI is taught to play the game through the use of a genetic algorithm which is a heuristic approach based on natural selection used to find the fittest members of a population to breed new evolved generations to find an optimum solution which in this case would be the correct key presses to reach the end goal. 
